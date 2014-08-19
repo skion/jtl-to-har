@@ -24,10 +24,6 @@ For more information and updates, please see:
 
   http://labs.watchmouse.com/
 
-Written by: Pieter Ennes <pieter@watchmouse.com>
-Copyright: (c) 2010 WatchMouse.com
-License: EUPL v1.1
-
 To do
 -----
 
